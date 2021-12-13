@@ -15,13 +15,22 @@ h1 {
 .btn-social-img {
   padding-bottom: 4px;
 }
-.link-positions {
+.link {
   color: inherit;
   text-decoration: none;
 }
-.link-positions:hover {
+.link:hover {
   color: #140170;
 }
 .poppins {
   font-family: "Poppins";
+}
+.navbar-link {
+  color: #140170;
+  text-decoration: none;
+}
+.navbar {
+  height: 40px;
+  background-color: #FFEF2C;
+  margin: auto;
 }
