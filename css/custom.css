@@ -13,12 +13,15 @@ body {
 h1 {
   color: #140170;
 }
+.main-box {
+  border-radius: 15px;
+}
 .btn-custom {
-  border-radius: 0%;
+  border-radius: 5px;
   color: #FFFFFF;
 }
 .btn-custom:hover {
-  border-radius: 0%;
+  border-radius: 5px;
   color: #C6C6C6;
 }
 .btn-social-img {
@@ -42,4 +45,10 @@ h1 {
   height: 40px;
   background-color: #FFEF2C;
   margin: auto;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.music-box {
+  border-radius: 15px;
+  color: white;
 }
