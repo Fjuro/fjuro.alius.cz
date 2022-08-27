@@ -19,6 +19,8 @@ h1 {
 .btn-custom {
   border-radius: 5px;
   color: #FFFFFF;
+  width: 46px;
+  height: 38px;
 }
 .btn-custom:hover {
   border-radius: 5px;
