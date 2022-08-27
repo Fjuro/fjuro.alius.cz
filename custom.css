@@ -1,0 +1,56 @@
+/* poppins-regular - latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/poppins-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/poppins-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+body {
+  background-color: #C6C6C6;
+}
+h1 {
+  color: #140170;
+}
+.main-box {
+  border-radius: 15px;
+}
+.btn-custom {
+  border-radius: 5px;
+  color: #FFFFFF;
+  width: 46px;
+  height: 38px;
+}
+.btn-custom:hover {
+  border-radius: 5px;
+  color: #C6C6C6;
+}
+.btn-social-img {
+  padding-bottom: 4px;
+}
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+.link:hover {
+  color: #140170;
+}
+.poppins {
+  font-family: "Poppins";
+}
+.navbar-link {
+  color: #140170;
+  text-decoration: none;
+}
+.navbar {
+  height: 40px;
+  background-color: #FFEF2C;
+  margin: auto;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.music-box {
+  border-radius: 15px;
+  color: white;
+}
