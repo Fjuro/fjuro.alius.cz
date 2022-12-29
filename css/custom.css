@@ -54,3 +54,18 @@ h1 {
   border-radius: 15px;
   color: white;
 }
+.wrapped-img {
+  width: 512px;
+  border-radius: 15px;
+}
+.wrapped-box {
+  width: 730px;
+  margin: auto;
+}
+.wrapped-title {
+  color: #140170;
+  text-decoration: none;
+}
+.wrapped-title:hover {
+  color: #321d9b;
+}
