@@ -13,6 +13,10 @@ body {
 h1 {
   color: #140170;
 }
+a {
+  color: #140170;
+  text-decoration: none;
+}
 .main-box {
   border-radius: 15px;
 }
@@ -68,4 +72,9 @@ h1 {
 }
 .wrapped-title:hover {
   color: #321d9b;
+}
+.heading {
+  display: grid;
+  align-items: center; 
+  grid-template-columns: 1fr 1fr 13fr;
 }
